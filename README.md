@@ -1,2 +1,2 @@
-# cibb2018specialsession
-CIBB 2018 Special session on machine learning in health informatics and biological systems
+# cibb2019specialsession
+CIBB 2019 Special session on machine learning in health informatics and biological systems
