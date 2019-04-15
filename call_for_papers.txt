@@ -1,0 +1,72 @@
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+
+== Machine Learning in Healthcare Informatics and Medical Biology CIBB 2019 Special session ==
+
+16th International Conference on Computational Intelligence methods for Bioinformatics and Biostatistcs
+Università di Bergamo, Italy, EU
+4th, 5th, 6th September 2019
+
+Scientific programme
+
+Call for papers
+
+This is the call for papers for the special session Machine Learning in Healthcare Informatics and Medical Biology within the 16th International Conference on Computational Intelligence methods for Bioinformatics and Biostatistcs (CIBB 2019) that will be held at Università di Bergamo, Bergamo, Italy, EU.
+
+If you are working on a project related to the topics described below, you are warmly invited to submit a short paper to our special session.
+
+https://davidechicco.github.io/cibb2019specialsession/
+
+== Aim and scope ==
+
+Machine learning has become a pivotal tool to analyze biomedical and biological datasets, especially in the Big Data era. In fact, machine learning algorithms can identify hidden relationships and structures in health care data, and even take advantage of them to make accurate predictions about similar or future data instances. For example, machine learning software has been able to predict the diagnosis of tumor patients just by processing patients' clinical features, allowing scientists to save time and money compared to wet lab experiments. Computational researchers have also exploited machine learning to infer knowledge about patients by analyzing biological datasets, especially the ones featuring genetics and epigenomic traits. Data mining approaches applied to such datasets, in fact, can lead to relevant discoveries both to understand molecular biology and to gain new knowledge about patients’ diseases.
+
+Our special session on "Machine Learning in Healthcare Informatics and Medical Biology" aims at boosting these scientific fields, calling for researchers able to show the potential and the advance of machine learning algorithms to make accurate computational predictions in health care datasets and in patient-oriented biological datasets.
+
+Topics of interest include:
+
+    Machine learning methods applied to health care and biomedical datasets
+    Machine learning methods applied to genetics and epigenomics datasets, to understand the conditions of healthy and/or sick patients
+    Machine learning methods applied to biological datasets to understand the underlying biomolecular scenario
+    Machine learning software and tools in the health care and biological domain
+    Statistical models to analyze health care, biomedical, and biological datasets
+    Data mining applications in the health care and biological domain
+
+== Special session organizers ==
+
+Davide Chicco*, Peter Munk Cardiac Centre, Toronto, Ontario, Canada
+Anne-Christin Hauschild, Philipps-Universitat Marburg, Marburg, Germany
+Mickael Mendez, University of Toronto, Toronto, Ontario, Canada
+Giuseppe Jurman, Fondazione Bruno Kessler, Trento, Italy
+Joao Ribeiro Pinto, Instituto de Engenharia de Sistemas e Computadores Tecnologia e Ciencia, Porto, Portugal
+
+
+== Special session invited speaker ==
+
+Marco Masseroli, Politecnico di Milano, Milan, Italy
+Talk provisional title: "Processing of big heterogeneous genomic datasets for tertiary analysis of Next Generation Sequencing data"
+
+== Call for papers - Short paper format ==
+
+All instructions on the website:
+https://davidechicco.github.io/cibb2019specialsession/
+
+== Post conference publication ==
+
+New this year: all the papers accepted to our special session will be invited to submit an extended version to a post-conference supplement on the BMC Medical Informatics and Decision Making journal. We already have a preliminary agreement with the journal. 
+
+== Dates and deadlines ==
+
+Paper submission deadline: 1st May 2019 
+
+== Share this call for papers ==
+
+Please share this call for papers and the URL to this website:
+https://davidechicco.github.io/cibb2019specialsession/ 
+
+
+== Contacts ==
+
+For any question, please contact Davide Chicco at davidechicco(AT)davidechicco.it 
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
